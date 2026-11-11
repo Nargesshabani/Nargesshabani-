@@ -1,0 +1,20 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "numpy": "2.3.5",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "seed": 2022,
+  "source": "conditional implementation using synthetic demand; not exact published result reproduction",
+  "source_pdf_sha256": "0b2a43e2c095683c255efbaa2d8eed75accfc7347c76aef3d9ed5c22c5d77022",
+  "equations_visually_checked": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ]
+}

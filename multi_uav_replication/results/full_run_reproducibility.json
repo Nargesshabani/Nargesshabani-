@@ -1,0 +1,13 @@
+{
+  "same_environment_repeated_full_run": {
+    "prediction.csv": true,
+    "training_loss.csv": true,
+    "daily_metrics.csv": true,
+    "task_results.csv": true,
+    "uav_events.csv": true,
+    "energy_ledger.csv": true,
+    "short_comparison.csv": true,
+    "summary.csv": true
+  },
+  "all_identical": true
+}

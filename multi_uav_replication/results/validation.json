@@ -1,0 +1,31 @@
+{
+  "shared_tasks_and_outcome_conservation": true,
+  "energy_ledger_and_landing_reserves": true,
+  "exhaustive_small_case_optimum": true,
+  "disjoint_training_holdout_dates": true,
+  "short_comparison_dimensions": true,
+  "csv_sha256": {
+    "clustering_centers.csv": "bb27ca4bd97cb56bd28a1085115ee64e101e2767aa89c90ce1365d16dc83071c",
+    "clustering_convergence.csv": "0df0ea325b14a0ffb44210864d931572eaa01353acbc4179a3471e6a298862b1",
+    "clustering_users.csv": "289e4230056d960e17e43d641a7f4f28480cece1b5173e0f561409db1e85526a",
+    "count_optimum.csv": "996242ea6aec05ecdb5b695c000bdb6e4d181fe99aed7e6a6b68a1d785ce438f",
+    "daily_loads.csv": "bd37433eeb12cd88b8f49227ce28b02d7f93666eb28c7c7382c76ae13a7d928e",
+    "daily_metrics.csv": "cb016a2bc8201cff716be964c039a933e02d803e438acdf1193ba2db4ab60cdf",
+    "deadline_angle_sensitivity.csv": "91aeedfd6093988d6fb80faf7a1bd035180d39ec0ccb83e4d34e06596abf5678",
+    "energy_ledger.csv": "6f39357e0d457ab8e570210e9d2e6cf1a336cfd5e5ba7e4fc4f9277d5ca1b67d",
+    "enumeration_verification.csv": "79da31538bc8d0855eb6fcc94ff1e0c2ecdad59ced3aceb69c4a0b78d1fb7abd",
+    "flight_checks.csv": "d5b47db5a030f6445b91e2c0480c283d2efd0eef714e4e283392176edbb6eb1b",
+    "horizontal_mode_sensitivity.csv": "a0fe455f856707cf83b2ac884c9641fcc41df6a629ee5967a7c0b7b2ff819edc",
+    "model_sensitivity.csv": "b1a11b4effad698e7586c5b212aa3fee5f7c9c480033abe0e47a454c75d106e1",
+    "p2_notation_audit.csv": "c57e7bc0d88d810b76e2ce920e942346091d73db3a3d0327f562b9398bbb5a7d",
+    "parameter_provenance.csv": "78fd4fc6569955074c90c40e1158a5105478b1d234a88f5403e2cee9e0c4bfb9",
+    "prediction.csv": "68e3f9e156dffcb113ab4a61e3fd15a322849b9659d41084699d97579553b276",
+    "prediction_scores.csv": "ce069123d1bdd6951eb52a5fd18ecd02a007155b3b4c4e02d319403d628edfd5",
+    "short_comparison.csv": "5ac52c0600fbeda0b8cceab2c07cb4ade49c03f5ac7475b4592995874992f626",
+    "summary.csv": "207ec06786f2f442c45d46399154216ac137c32cc0207f2f407abc3011696ae3",
+    "task_results.csv": "91277325bb7cf0951f3fa5519ca2d8283d6b7be26309fb6242c058be29f7e8dd",
+    "training_dataset.csv": "742cbb2aba4e6f11c7427a7fb6c90561ec1e9c63cb5333406e90b7ff5f719351",
+    "training_loss.csv": "88a6ced70c73340d4a46e09b69b2d83ce309bce904af7a0d76f3892ecf34d723",
+    "uav_events.csv": "13b1c783a005e98ae9593e54ef7eb8784fee5ed6acec5b04f036906b8fcac540"
+  }
+}

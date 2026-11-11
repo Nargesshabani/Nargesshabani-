@@ -1,0 +1,66 @@
+group,parameter,value,provenance
+paper,area_m,500.0,verified PDF
+paper,slot_s,300.0,verified PDF
+paper,slots,288,verified PDF
+paper,data_mb,"[0.5, 1.0]",verified PDF
+paper,cycles,"[50000000.0, 150000000.0]",verified PDF
+paper,cpu_hz,1000000000.0,verified PDF
+paper,communication_w,1.0,verified PDF
+paper,battery_j,500000.0,verified PDF
+paper,bandwidth_hz,1000000.0,verified PDF
+paper,transmit_dbm,30.0,verified PDF
+paper,acceleration,5.0,verified PDF
+paper,max_speed,30.0,verified PDF
+paper,weight_n,20.0,verified PDF
+paper,density,1.225,verified PDF
+paper,rotor_radius,0.4,verified PDF
+paper,solidity,0.05,verified PDF
+paper,drag_profile,0.012,verified PDF
+paper,omega,300.0,verified PDF
+paper,induced_k,0.1,verified PDF
+paper,los_a,4.88,verified PDF
+paper,los_b,0.43,verified PDF
+assumptions,seed,2022,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,carrier_hz,2000000000.0,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,height_m,30.0,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,noise_w,1e-13,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,excess_los_db,1.0,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,excess_nlos_db,20.0,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,angle_unit,"""radians""",explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,gamma,1e-28,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,transmission_numerator,"""task_bits""",explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,compute_energy_mode,"""total_cycles""",explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,mass_kg,2.038735983690112,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,plate_area,0.05,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,fuselage_drag,0.6,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,horizontal_mode,"""force_balance""",explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,q2_w,0.0,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,deadline_s,1.0,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,arrival_probability,0.5,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,initial_mobile_radius_m,80.0,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,base_xy,"[250.0, 250.0]",explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,fuzzy_eta,2.0,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,fuzzy_tolerance,1e-05,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,fuzzy_iterations,200,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,bp_hidden,24,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,bp_epochs,800,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,bp_learning_rate,0.01,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,bp_batch,128,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,training_fraction,0.8,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,adam_beta1,0.9,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,adam_beta2,0.999,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,rmsprop_decay,0.9,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,optimizer_epsilon,1e-08,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,deadline_sweep,"[0.5, 1.0, 2.0, 5.0, 10.0]",explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,training_days,28,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,demand_knots_hours,"[0, 1, 4, 6, 7, 8, 12, 16, 20, 22, 24]",explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,demand_knots_counts,"[20, 5, 5, 75, 150, 80, 110, 95, 70, 35, 20]",explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,demand_noise_sd,7.0,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,day_amplitude_sd,0.06,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,max_uavs,64,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,fixed_uavs,4,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,short_users,70,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,short_uavs,5,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,short_slots,60,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,enumeration_max_states,2000000,explicit assumption; see docs/ASSUMPTIONS.md
+assumptions,expired_tasks,"""drop""",explicit assumption; see docs/ASSUMPTIONS.md

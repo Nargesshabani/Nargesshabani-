@@ -1,0 +1,42 @@
+[
+  {
+    "policy": "fixed",
+    "tasks": 10748,
+    "success_rate": 0.09834387793077783,
+    "mean_active": 4.0,
+    "mean_load_sd": 0.6405748360292856,
+    "energy_j": 49671269.64377449,
+    "replacements": 96,
+    "landings_safe": true
+  },
+  {
+    "policy": "prediction",
+    "tasks": 10748,
+    "success_rate": 0.11192780052102717,
+    "mean_active": 4.111111111111111,
+    "mean_load_sd": 0.6270993663357819,
+    "energy_j": 51069555.23066865,
+    "replacements": 93,
+    "landings_safe": true
+  },
+  {
+    "policy": "proposed",
+    "tasks": 10748,
+    "success_rate": 0.11332340900632676,
+    "mean_active": 4.618055555555555,
+    "mean_load_sd": 0.64405396089763,
+    "energy_j": 57393963.76904323,
+    "replacements": 27,
+    "landings_safe": true
+  },
+  {
+    "policy": "enumeration",
+    "tasks": 10748,
+    "success_rate": 0.10820617789356159,
+    "mean_active": 4.215277777777778,
+    "mean_load_sd": 0.5780033838713171,
+    "energy_j": 52351107.76210759,
+    "replacements": 42,
+    "landings_safe": true
+  }
+]

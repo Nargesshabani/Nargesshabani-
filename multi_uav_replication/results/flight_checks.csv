@@ -1,0 +1,13 @@
+mode,distance_m,time_s,energy_j,physical_validity
+horizontal,0,0.0,0.0,conditional_source_equation
+horizontal,30,4.898979485566356,659.2129765138747,conditional_source_equation
+horizontal,100,8.94427190999916,1302.7033996891146,conditional_source_equation
+horizontal,500,22.666666666666664,6100.5605272480825,conditional_source_equation
+up,0,0.0,0.0,conditional_source_equation
+up,30,4.898979485566356,631.0174680448856,conditional_source_equation
+up,100,8.94427190999916,2037.5492234699186,conditional_source_equation
+up,500,22.666666666666664,10049.559405925265,conditional_source_equation
+down,0,0.0,0.0,conditional_source_equation
+down,30,4.898979485566356,631.0174680448855,conditional_source_equation
+down,100,8.94427190999916,2037.5492234699186,conditional_source_equation
+down,500,22.666666666666664,10049.559405925265,conditional_source_equation

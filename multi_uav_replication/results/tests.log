@@ -1,0 +1,26 @@
+test_daily_reproducibility_and_shared_tasks (test_integration.Integration.test_daily_reproducibility_and_shared_tasks) ... ok
+test_greedy_available_resource_rule (test_integration.Integration.test_greedy_available_resource_rule) ... ok
+test_literal_horizontal_failure_is_exposed (test_integration.Integration.test_literal_horizontal_failure_is_exposed) ... ok
+test_long_idle_replacement_no_exhaustion (test_integration.Integration.test_long_idle_replacement_no_exhaustion) ... ok
+test_model_persistence (test_integration.Integration.test_model_persistence) ... ok
+test_allocator_conserves_and_sorts (test_models.Models.test_allocator_conserves_and_sorts) ... ok
+test_bp_learns_and_repeats (test_models.Models.test_bp_learns_and_repeats) ... ok
+test_computation (test_models.Models.test_computation) ... ok
+test_constraints (test_models.Models.test_constraints) ... ok
+test_db_rate_and_units (test_models.Models.test_db_rate_and_units) ... ok
+test_distance (test_models.Models.test_distance) ... ok
+test_energy_integration (test_models.Models.test_energy_integration) ... ok
+test_entry_exit_feedback_fixed (test_models.Models.test_entry_exit_feedback_fixed) ... ok
+test_enumeration (test_models.Models.test_enumeration) ... ok
+test_fcm_initial_and_reproducible (test_models.Models.test_fcm_initial_and_reproducible) ... ok
+test_literal_p2_index_typo (test_models.Models.test_literal_p2_index_typo) ... ok
+test_membership_printed_exponent (test_models.Models.test_membership_printed_exponent) ... ok
+test_profile_conservation (test_models.Models.test_profile_conservation) ... ok
+test_replacement_and_landing (test_models.Models.test_replacement_and_landing) ... ok
+test_seeded_tasks (test_models.Models.test_seeded_tasks) ... ok
+test_service_deadline (test_models.Models.test_service_deadline) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.947s
+
+OK
